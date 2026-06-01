@@ -55,7 +55,7 @@
     --popover-foreground: oklch(0.2 0.02 260);
 
     /* Vibrant Golden Orange (Burger/Beer) */
-    --primary: oklch(0.68 0.16 60);
+    --primary: oklch(68.072% 0.15987 59.818);
     --primary-foreground: oklch(0.14 0.05 260);
 
     /* Light Grey/Beige for secondary elements */
@@ -85,6 +85,7 @@
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground font-sans;
     scroll-behavior: smooth;

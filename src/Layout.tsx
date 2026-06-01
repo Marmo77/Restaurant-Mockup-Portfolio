@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import Navbar from "./components/Layout/Navbar";
 import Footer from "./components/Layout/Footer";
-
+import { Analytics } from "@vercel/analytics/react"
 interface LayoutProps {
   children: React.ReactNode;
 }
@@ -48,6 +48,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
         setMobileMenuOpen={setMobileMenuOpen}
         handleNavigation={handleNavigation}
       />
+      <Analytics />
 
       {/* Content */}
       <div className="pt-0">{children}</div>
