@@ -27,10 +27,10 @@ const Footer: React.FC<FooterProps> = ({ handleNavigation }) => {
               </div>
               <div className="flex flex-col items-start leading-none">
                 <span className="text-2xl font-display font-bold tracking-wider text-white">
-                  CHMIEL
+                  Bistro Burger
                 </span>
                 <span className="text-[0.5rem] font-bold tracking-[0.2em] text-primary uppercase w-full text-left">
-                  Do Uwolnienia
+                  Szczecin
                 </span>
               </div>
             </Link>

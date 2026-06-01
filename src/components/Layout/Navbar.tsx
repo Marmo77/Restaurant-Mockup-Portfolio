@@ -50,10 +50,10 @@ const Navbar: React.FC<NavbarProps> = ({
                 isScrolled ? "text-foreground" : "text-white",
               )}
             >
-              CHMIEL
+              Bistro Burger
             </span>
             <span className="text-[0.65rem] font-bold tracking-[0.2em] text-primary uppercase w-full text-left">
-              Do Uwolnienia
+              Szczecin
             </span>
           </div>
         </Link>

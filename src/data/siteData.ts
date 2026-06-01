@@ -1,18 +1,18 @@
 export const siteData = {
-  name: "CHMIEL Do Uwolnienia",
+  name: "Bistro Burger Szczecin",
   logo_full: "/logo-full.png",
   logo_nobg: "/logo-nobg.png",
   contact: {
     address: {
-      street: "ul. Nadrzeczna 8",
-      city: "Goleniów",
-      zip: "72-100",
-      full: "ul. Nadrzeczna 8, 72-100 Goleniów",
+      street: "ul. Niezwykła 8",
+      city: "Szczecin",
+      zip: "70-002",
+      full: "ul. Niezwykła 8, 70-002 Szczecin",
       googleMapsUrl:
-        "https://www.google.com/maps/place/CHMIEL+DO+UWOLNIENIA+-+Restaurant+%26+Pub/@53.5629654,14.8258664,20.75z/data=!4m6!3m5!1s0x47009ed0be6cffab:0x322aae7841baa947!8m2!3d53.5628098!4d14.8259717!16s%2Fg%2F11cmd86m65",
+        "https://www.google.com/maps?q=Szczecin",
     },
-    phone: "451 568 912",
-    email: "pub@chmieldouwolnienia.pl",
+    phone: "510 378 629",
+    email: "pub@bistroburger.pl",
   },
   hours: {
     monday: "Nieczynne",

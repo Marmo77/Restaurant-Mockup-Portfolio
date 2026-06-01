@@ -29,10 +29,10 @@ const Hero = () => {
         </div> */}
 
         <h1 className="text-7xl md:text-9xl font-display font-bold tracking-tight text-white mb-6 drop-shadow-xl animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-150 leading-[0.9]">
-          UWOLNIJ <br />
+          BISTRO <br />
           <span className="relative inline-block">
             <span className="relative z-10 text-primary drop-shadow-[0_2px_10px_rgba(0,0,0,0.5)]">
-              CHMIEL
+              BURGER
             </span>
             <span className="absolute -bottom-2 left-0 right-0 h-4 bg-white/10 -rotate-2 rounded-full z-0 blur-sm"></span>
           </span>
@@ -54,7 +54,7 @@ const Hero = () => {
               document
                 .getElementById(
                   siteData.navItems.find((item) => item.label === "Menu")?.id ||
-                    "menu",
+                  "menu",
                 )
                 ?.scrollIntoView({ behavior: "smooth" })
             }

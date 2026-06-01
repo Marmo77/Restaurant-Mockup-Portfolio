@@ -1,35 +1,48 @@
 {
   "site": {
-    "name": "CHMIEL Do Uwolnienia",
-    "tagline": "Uwolnij Chmiel - Gastropub w Goleniowie",
-    "description": "Autorskie burgery, rzemieślnicze piwo kraftowe i wyjątkowa atmosfera w sercu Goleniowa. CHMIEL Do Uwolnienia to gastropub, gdzie tradycja spotyka się z nowoczesnością. Zarezerwuj stolik lub zamów online!",
-    "url": "https://chmieldouwolnienia.pl",
+    "name": "Bistro Burger Szczecin",
+    "tagline": "Zjedz Burgera - Gastropub w Szczecinie",
+    "description": "Autorskie burgery, rzemieślnicze piwo kraftowe i wyjątkowa atmosfera w sercu Szczecina. Bistro Burger to gastropub, gdzie tradycja spotyka się z nowoczesnością. Zarezerwuj stolik lub zamów online!",
+    "url": "https://bistoburgerszczecin.pl",
     "language": "pl",
     "locale": "pl_PL",
     "type": "restaurant"
   },
   "business": {
-    "legalName": "CHMIEL Do Uwolnienia",
+    "legalName": "Bistro Burger Szczecin",
     "category": "Gastropub",
     "priceRange": "$$",
-    "cuisineType": ["Amerykańska", "Pub Food", "Burgery", "Piwo Kraftowe"],
-    "servesCuisine": ["American", "Polish", "Pub Food"],
+    "cuisineType": [
+      "Amerykańska",
+      "Pub Food",
+      "Burgery",
+      "Piwo Kraftowe"
+    ],
+    "servesCuisine": [
+      "American",
+      "Polish",
+      "Pub Food"
+    ],
     "foundingYear": 2020,
     "acceptsReservations": true,
-    "paymentAccepted": ["Gotówka", "Karta", "Płatności cyfrowe"]
+    "paymentAccepted": [
+      "Gotówka",
+      "Karta",
+      "Płatności cyfrowe"
+    ]
   },
   "contact": {
-    "phone": "+48451568912",
-    "phoneDisplay": "451 568 912",
-    "email": "pub@chmieldouwolnienia.pl",
+    "phone": "+48510378629",
+    "phoneDisplay": "510 378 629",
+    "email": "pub@bistroburger.pl",
     "address": {
-      "street": "ul. Nadrzeczna 8",
-      "city": "Goleniów",
+      "street": "ul. Niezwykła 8",
+      "city": "Szczecin",
       "region": "Zachodniopomorskie",
-      "postalCode": "72-100",
+      "postalCode": "70-002",
       "country": "Polska",
       "countryCode": "PL",
-      "full": "ul. Nadrzeczna 8, 72-100 Goleniów, Polska",
+      "full": "ul. Niezwykła 8, 70-002 Szczecin, Polska",
       "latitude": "53.5628098",
       "longitude": "14.8259717"
     }
@@ -45,12 +58,12 @@
     "timezone": "Europe/Warsaw"
   },
   "seo": {
-    "title": "CHMIEL Do Uwolnienia - Gastropub Goleniów | Burgery & Piwo Kraftowe",
-    "titleTemplate": "%s | CHMIEL Do Uwolnienia",
-    "description": "Najlepszy gastropub w Goleniowie! Autorskie burgery, rzemieślnicze piwo kraftowe, ogródek piwny i wyjątkowa atmosfera. Rezerwacje: 451 568 912. Zamów online!",
+    "title": "Bistro Burger Szczecin | Burgery & Piwo Kraftowe",
+    "titleTemplate": "%s | Bistro Burger Szczecin",
+    "description": "Najlepszy gastropub w Szczecinie! Autorskie burgery, rzemieślnicze piwo kraftowe, ogródek piwny i wyjątkowa atmosfera. Rezerwacje: 510 378 629. Zamów online!",
     "keywords": [
-      "gastropub Goleniów",
-      "burgery Goleniów",
+      "gastropub Szczecin",
+      "burgery Szczecin",
       "piwo kraftowe Goleniów",
       "restauracja Goleniów",
       "pub Goleniów",
@@ -58,28 +71,28 @@
       "najlepsze burgery",
       "craft beer",
       "ogródek piwny",
-      "rezerwacja stolika Goleniów",
-      "jedzenie na wynos Goleniów",
-      "lunch Goleniów",
-      "imprezy urodzinowe Goleniów",
+      "rezerwacja stolika Szczecin",
+      "jedzenie na wynos Szczecin",
+      "lunch Szczecin",
+      "imprezy urodzinowe Szczecin",
       "przyjazny dla psów pub",
-      "parking Goleniów restauracja"
+      "parking Szczecin restauracja"
     ],
-    "author": "CHMIEL Do Uwolnienia",
+    "author": "Bistro Burger Szczecin",
     "robots": "index, follow",
     "googlebot": "index, follow",
-    "canonical": "https://chmieldouwolnienia.pl"
+    "canonical": "https://bistoburgerszczecin.pl"
   },
   "openGraph": {
     "type": "restaurant",
-    "title": "CHMIEL Do Uwolnienia - Gastropub Goleniów | Burgery & Piwo Kraftowe",
-    "description": "Uwolnij swoje zmysły! Autorskie burgery, rzemieślnicze piwo kraftowe i klimat, który karmi zmysły. Najlepszy gastropub w Goleniowie.",
-    "url": "https://chmiel-dou-wolnienia.pl",
-    "siteName": "CHMIEL Do Uwolnienia",
+    "title": "Bistro Burger Szczecin | Burgery & Piwo Kraftowe",
+    "description": "Autorskie burgery, rzemieślnicze piwo kraftowe i wyjątkowa atmosfera w sercu Szczecina. Bistro Burger to gastropub, gdzie tradycja spotyka się z nowoczesnością. Zarezerwuj stolik lub zamów online!",
+    "url": "https://bistoburgerszczecin.pl",
+    "siteName": "Bistro Burger Szczecin",
     "locale": "pl_PL",
     "images": [
       {
-        "url": "https://chmiel-dou-wolnienia.pl/og-image.jpg",
+        "url": "https://bistoburgerszczecin.pl/og-image.jpg",
         "width": 1200,
         "height": 630,
         "alt": "CHMIEL Do Uwolnienia - Gastropub w Goleniowie"
@@ -88,16 +101,16 @@
   },
   "twitter": {
     "card": "summary_large_image",
-    "site": "@chmieldouwolnienia",
-    "title": "CHMIEL Do Uwolnienia - Gastropub Goleniów",
-    "description": "Autorskie burgery, rzemieślnicze piwo kraftowe i wyjątkowa atmosfera. Zarezerwuj stolik: 451 568 912",
-    "image": "https://chmieldouwolnienia.pl/twitter-image.jpg",
-    "imageAlt": "CHMIEL Do Uwolnienia Gastropub"
+    "site": "@bistoburgerszczecin",
+    "title": "Bistro Burger Szczecin | Burgery & Piwo Kraftowe",
+    "description": "Autorskie burgery, rzemieślnicze piwo kraftowe i wyjątkowa atmosfera. Zarezerwuj stolik: 510 378 629",
+    "image": "https://bistoburgerszczecin.pl/twitter-image.jpg",
+    "imageAlt": "Bistro Burger Szczecin Gastropub"
   },
   "social": {
-    "facebook": "https://www.facebook.com/chmieldouwolnienia",
-    "instagram": "https://www.instagram.com/chmieldouwolnienia/",
-    "googleMaps": "https://www.google.com/maps/place/CHMIEL+DO+UWOLNIENIA+-+Restaurant+%26+Pub/@53.5629654,14.8258664,20.75z/data=!4m6!3m5!1s0x47009ed0be6cffab:0x322aae7841baa947!8m2!3d53.5628098!4d14.8259717!16s%2Fg%2F11cmd86m65"
+    "facebook": "https://www.facebook.com/bistoburgerszczecin",
+    "instagram": "https://www.instagram.com/bistoburgerszczecin/",
+    "googleMaps": "https://www.google.com/maps/place/Bistro+Burger+Szczecin/@53.4290559,14.5527651,17z/data=!3m1!4b1!4m6!3m5!1s0x470083628878237d:0xbb7a34a759240366!8m2!3d53.4290559!4d14.5549538!16s%2Fg%2F11j0q918p2?entry=ttu"
   },
   "features": {
     "amenities": [
@@ -132,26 +145,34 @@
     ]
   },
   "menu": {
-    "categories": ["Burgery", "Lunch", "Napoje & Kraft"],
+    "categories": [
+      "Burgery",
+      "Lunch",
+      "Napoje & Piwo"
+    ],
     "hasVegetarianOptions": true,
     "hasVeganOptions": false,
-    "menuUrl": "https://www.pyszne.pl/menu/chmiel-do-uwolnienia-goleniow-nadrzeczna"
+    "menuUrl": "https://www.pyszne.pl/menu/bistro-burger-szczecin"
   },
   "structuredData": {
     "@context": "https://schema.org",
     "@type": "Restaurant",
-    "name": "CHMIEL Do Uwolnienia",
-    "image": "https://chmieldouwolnienia.pl/logo-full.png",
-    "description": "Autorskie burgery, rzemieślnicze piwo kraftowe i wyjątkowa atmosfera w sercu Goleniowa.",
-    "servesCuisine": ["American", "Polish", "Pub Food"],
+    "name": "Bistro Burger Szczecin",
+    "image": "https://bistoburgerszczecin.pl/logo-full.png",
+    "description": "Autorskie burgery, rzemieślnicze piwo kraftowe i wyjątkowa atmosfera w sercu Szczecina.",
+    "servesCuisine": [
+      "American",
+      "Polish",
+      "Pub Food"
+    ],
     "priceRange": "$$",
-    "telephone": "+48451568912",
-    "email": "pub@chmieldouwolnienia.pl",
-    "url": "https://chmieldouwolnienia.pl",
+    "telephone": "+48510378629",
+    "email": "pub@bistoburgerszczecin.pl",
+    "url": "https://bistoburgerszczecin.pl",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "ul. Nadrzeczna 8",
-      "addressLocality": "Goleniów",
+      "streetAddress": "ul. Niezwykła 8",
+      "addressLocality": "Szczecin",
       "addressRegion": "Zachodniopomorskie",
       "postalCode": "72-100",
       "addressCountry": "PL"
@@ -170,13 +191,20 @@
       },
       {
         "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Tuesday", "Wednesday", "Thursday"],
+        "dayOfWeek": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
         "opens": "14:00",
         "closes": "22:30"
       },
       {
         "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Friday", "Saturday"],
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
         "opens": "13:00",
         "closes": "00:00"
       },
@@ -188,12 +216,16 @@
       }
     ],
     "acceptsReservations": "True",
-    "paymentAccepted": ["Cash", "Credit Card", "Digital Payment"],
-    "sameAs": [
-      "https://www.facebook.com/chmieldouwolnienia",
-      "https://www.instagram.com/chmieldouwolnienia/"
+    "paymentAccepted": [
+      "Cash",
+      "Credit Card",
+      "Digital Payment"
     ],
-    "hasMenu": "https://www.pyszne.pl/menu/chmiel-do-uwolnienia-goleniow-nadrzeczna",
+    "sameAs": [
+      "https://www.facebook.com/bistoburgerszczecin",
+      "https://www.instagram.com/bistoburgerszczecin/"
+    ],
+    "hasMenu": "https://www.pyszne.pl/menu/bistoburgerszczecin",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.7",

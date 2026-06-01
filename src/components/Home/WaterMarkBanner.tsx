@@ -1,3 +1,4 @@
+
 const WaterMarkBanner = ({
   creatorName = "Marmo77",
   email = "aleksydobrodziej@gmail.com",
@@ -7,13 +8,15 @@ const WaterMarkBanner = ({
     <div className="sticky bottom-0 right-0 w-full z-50 bg-yellow-400/90 text-yellow-950 px-4 py-1.5 shadow-sm backdrop-blur-sm">
       <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between text-xs font-medium tracking-wide uppercase">
         {/* Left Side: Warning Label */}
-        <span className="font-bold flex items-center gap-2 mb-1 sm:mb-0">
+        <div className="font-bold flex items-center gap-2 mb-1 sm:mb-0">
           <span className="w-2 h-2 rounded-full bg-yellow-700 animate-pulse"></span>
-          Strona podglądowa - to nie jest finalna wersja!
-        </span>
+          Strona poglądowa - Podane dane są tylko przykładowe.
+
+        </div>
 
         {/* Right Side: Creator Info */}
         <div className="flex flex-wrap justify-center gap-4 opacity-90">
+          <span className="text-[11px] font-semibold ">ZLECENIA I WSPÓŁPRACA:</span>
           <span>
             Autor:{" "}
             <a
@@ -40,7 +43,7 @@ const WaterMarkBanner = ({
           </a>
         </div>
       </div>
-    </div>
+    </div >
   );
 };
 
